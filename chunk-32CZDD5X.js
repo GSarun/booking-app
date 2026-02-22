@@ -1,0 +1,1 @@
+import{a as o}from"./chunk-SWELJ4UV.js";import{d as e}from"./chunk-BNUSH326.js";import{N as t}from"./chunk-CUYI2575.js";var s=(a,c)=>{let i=t(o),n=t(e),r=i.profile();return r&&r.role==="admin"?!0:(n.navigate(["/"]),!1)};export{s as adminGuard};
